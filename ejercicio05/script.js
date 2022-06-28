@@ -1,5 +1,5 @@
 // Ejercicio 5: Escribe un programa que pida una frase y escriba las vocales que aparecen en ella.
-console.log("Ejercicio 4");
+console.log("Ejercicio 5");
 const frase = prompt("Escriba una frase");
 let conteoA = 0;
 let conteoB = 0;
